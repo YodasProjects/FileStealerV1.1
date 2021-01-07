@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\stub\stub\bin\Release\stub.exe.config
+C:\Users\Administrator\source\repos\stub\stub\bin\Release\stub.exe
+C:\Users\Administrator\source\repos\stub\stub\bin\Release\stub.pdb
+C:\Users\Administrator\source\repos\stub\stub\bin\Release\stub.xml
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.Form1.resources
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.Resources.resources
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.exe
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.xml
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.pdb
+C:\Users\Administrator\source\repos\stub\stub\obj\Release\stub.vbprojAssemblyReference.cache
